@@ -1,0 +1,15 @@
+---
+title:
+- type: main
+  text: Build Your Own Didactic Computing Machine from Scrap 
+creator:
+- role: author
+  text: Jason J. Gullickson
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher:  Second Society
+rights: Copyright ©2025 Jason J. Gullickson
+date: 2025-02-02
+cover-image: ./images/computer.png
+...
