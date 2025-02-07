@@ -15,5 +15,6 @@ work.  If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 # References
 
 * [ENIAC Resources](https://www.cs.drexel.edu/~bls96/eniac/)
+* [Simplifier](https://simplifier.neocities.org/)
 
 # Back matter
